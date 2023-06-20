@@ -9,7 +9,7 @@ if you want to open this app on your computer add this dataset to project file >
 
 ![deman11](https://github.com/yusufkesici/DemandForecast/assets/81406568/e4fd1238-28b3-46d8-b853-d87eaa7b6c83)
 
-![demand2](https://github.com/yusufkesici/DemandForecast/assets/81406568/cf997977-1abf-4360-b877-7562d0e99dc6)
+![demand2](https://github.com/yusufkesici/DemandForecast/assets/81406568/2eb081b6-c0e4-43a4-8ec9-57a573ac1de0)
 
 ![demand3](https://github.com/yusufkesici/DemandForecast/assets/81406568/e6d9b03b-2778-41e8-af2c-af5bda52d9d2)
 
