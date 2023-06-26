@@ -3,7 +3,7 @@
 
 Dataset Link : https://www.kaggle.com/competitions/demand-forecasting-kernels-only/data
 
-if you want to open this app on your computer add this dataset to project file >>  https://drive.google.com/file/d/1ZRt29wkX1Z5eNaccETCc7WAhsSr29qY2/view?usp=sharing
+if you want to run this app on your computer add this dataset to project file >>  https://drive.google.com/file/d/1ZRt29wkX1Z5eNaccETCc7WAhsSr29qY2/view?usp=sharing
 
 
 
